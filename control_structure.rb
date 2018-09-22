@@ -70,9 +70,27 @@ loop {
 }
 =end
 
+
+=begin
 arr =[1,2,3,4,5,6,7,8] 
 arr.each { |item|
     puts item * 2
 
 
 } #recorre el elemento
+=end
+
+=begin
+language="Ruby"
+
+case language
+        WHEN    "JS"
+        PUTS "wEB APPS"
+        WHEN "pYTHON"
+        PUTS "Sciense!"
+else "I don't know"
+end
+=end
+
+5==12 ? "haga esto" : "asdjadh"
+push 12>5 ? "12" : "5"
